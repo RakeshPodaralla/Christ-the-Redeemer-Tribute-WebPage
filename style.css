@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding:0;
+  font-family: sans-serif;
+}
+#main{
+  background-color: #f3f2f2;
+}
+#title{
+  color: dodgerblue;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#img-div{
+  background-color: peru;
+  padding: 5px;
+}
+img{
+  display:block;
+  max-width: 100%;
+  height: auto;
+  width:0 auto;
+}
+#image{
+  display: block;
+  margin: 0 auto 0 auto;
+  width: 30%;
+}
+#img-caption{
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+}
+#tribute-info, h3, p{
+  margin: 10px 0px 0px 10px;
+}
+h2, h3{
+  color: orange;
+  font-style: italic;
+}
+ul{
+  padding: 20px;
+  font-size: 14px;
+}
+li{
+  padding:2px;
+}
+p{
+  font-size: 14px;
+  text-align: justify;
+}
+h4{
+  text-align: center;
+  padding-top: 15px;
+}
